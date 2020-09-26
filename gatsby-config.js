@@ -17,6 +17,14 @@ module.exports = {
         name: `linkedin`,
         url: `https://linkedin.com/in/radu-bataragă-21ab17128`,
       },
+      {
+        name: 'website presentation',
+        url: `https://www.rbinnovative.info`,
+      },
+      {
+        name: 'bitbucket',
+        url: `https://bitbucket.org/radubataraga/`,
+      },
     ],
   },
   plugins: [
