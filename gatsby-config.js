@@ -1,33 +1,21 @@
 module.exports = {
   siteMetadata: {
     title: `Blog by passion`,
-    name: `rbinnovative`,
+    name: `Bataraga Radu, TECH INNOVATIVE SOLUTIONS`,
     siteUrl: `https://blog.rbinnovative.info`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `This is blog is created for teaching purposes. This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Start building the future. Don't think about it, do it.`,
       maxWidth: 652,
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
-      {
         name: `github`,
-        url: `https://github.com/narative`,
-      },
-      {
-        name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://github.com/bataragaradu`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://linkedin.com/in/radu-bataragă-21ab17128`,
       },
     ],
   },

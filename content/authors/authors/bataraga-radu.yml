@@ -1,0 +1,11 @@
+name: Bataraga Radu
+bio: |
+  I've started this site for educational purposes that maybe other people can benefit.
+  My expertise is oriented on microservices architecture with all the things that come along.
+avatar: ./../avatars/bataraga-radu.jpeg
+social:
+  - url: https://github.com/bataragaradu
+  - url: https://linkedin.com/in/radu-bataragă-21ab17128
+  - url: https://www.rbinnovative.info
+  - url: https://bitbucket.org/radubataraga/
+featured: true
